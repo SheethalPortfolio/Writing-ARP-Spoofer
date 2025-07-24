@@ -177,7 +177,6 @@ except KeyboardInterrupt:
 📍 Singapore | SIM-UOW  
 🎓 Bachelor of Computer Science  
 🛡️ Double Major: Digital Systems Security & Cybersecurity  
-📫 [LinkedIn](#) • [Portfolio](#)
 
 ---
 
